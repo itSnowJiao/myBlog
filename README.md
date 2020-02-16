@@ -1,2 +1,21 @@
-# myBlog
-运用vue和firebase做的一个个人博客，主要包括博客展示、写博客、博客详情、编辑博客页面，实现功能包括搜索博客、删除和编辑博客内容。主要运用axios获取数据信息，用vue-router进行页面切换。
+# my-blog
+
+> A Vue.js project
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
